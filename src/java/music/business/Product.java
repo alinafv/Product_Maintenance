@@ -1,6 +1,6 @@
 /*
   Document   : Product.java   
-  Author     : Alina Fernandez
+  Author     : Provided by the professor Hardanian Saeed 
  */
 package music.business;
 
